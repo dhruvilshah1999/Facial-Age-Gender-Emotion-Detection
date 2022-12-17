@@ -8,7 +8,7 @@ Face recognition has become one of the most popular topics in computer vision an
 python>= 3.7.12 or 3.10.8
 # Folders
 1. Models_Methods: Contains all Jupyter Notebooks 
-2. M0=odels_Merge_Demo:
+2. Models_Merge_Demo:
    1. Contains "Demo" jupyter notebook with folder name ST-CNN.
    2. Contains "Trasfer_Learning_Age_Results" jupyter notebook within trasfer learning.
 This both notebook can be run independently for face emotion, age and gender detection.
