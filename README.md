@@ -13,5 +13,5 @@ python>= 3.7.12 or 3.10.8
    2. Contains "Trasfer_Learning_Age_Results" jupyter notebook within trasfer learning.
 This both notebook can be run independently for face emotion, age and gender detection.
 This both notebook has comparative analysis within best selected models, for their respective approaces namely ST-CNN & Trasfer Leaning.
-# Finalized Models Link (Mentioned in Models_Merge_Demo notebooks):
+# All Finalized Trained Models Link (Mentioned in Models_Merge_Demo notebooks):
 https://drive.google.com/drive/folders/12ZQm3o5kl3hJEi04Kg-0l21kTcuoe0Dl?usp=sharing
